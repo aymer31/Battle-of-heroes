@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aymer\\source\\repos\\ConsoleApp2\\ProjetCombat\\ProjetCombat.csproj": {}
+    "C:\\Users\\aymer\\code\\Cs\\Battle-of-heroes\\ProjetCombat\\ProjetCombat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aymer\\source\\repos\\ConsoleApp2\\ProjetCombat\\ProjetCombat.csproj": {
+    "C:\\Users\\aymer\\code\\Cs\\Battle-of-heroes\\ProjetCombat\\ProjetCombat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aymer\\source\\repos\\ConsoleApp2\\ProjetCombat\\ProjetCombat.csproj",
+        "projectUniqueName": "C:\\Users\\aymer\\code\\Cs\\Battle-of-heroes\\ProjetCombat\\ProjetCombat.csproj",
         "projectName": "ProjetCombat",
-        "projectPath": "C:\\Users\\aymer\\source\\repos\\ConsoleApp2\\ProjetCombat\\ProjetCombat.csproj",
+        "projectPath": "C:\\Users\\aymer\\code\\Cs\\Battle-of-heroes\\ProjetCombat\\ProjetCombat.csproj",
         "packagesPath": "C:\\Users\\aymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aymer\\source\\repos\\ConsoleApp2\\ProjetCombat\\obj\\",
+        "outputPath": "C:\\Users\\aymer\\code\\Cs\\Battle-of-heroes\\ProjetCombat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

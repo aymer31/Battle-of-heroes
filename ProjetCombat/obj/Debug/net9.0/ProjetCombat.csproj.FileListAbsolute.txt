@@ -1,0 +1,14 @@
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\bin\Debug\net9.0\ProjetCombat.exe
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\bin\Debug\net9.0\ProjetCombat.deps.json
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\bin\Debug\net9.0\ProjetCombat.runtimeconfig.json
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\bin\Debug\net9.0\ProjetCombat.dll
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\bin\Debug\net9.0\ProjetCombat.pdb
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.AssemblyInfoInputs.cache
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.AssemblyInfo.cs
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.csproj.CoreCompileInputs.cache
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.dll
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\refint\ProjetCombat.dll
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.pdb
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ProjetCombat.genruntimeconfig.cache
+C:\Users\aymer\source\repos\ConsoleApp2\ProjetCombat\obj\Debug\net9.0\ref\ProjetCombat.dll
